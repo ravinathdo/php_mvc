@@ -4,7 +4,7 @@ class Error extends Controller {
 
     function __construct() {
         parent::__construct();
-        echo 'this is an error';
+        echo 'this is an error<br>';
     }
 
 }
